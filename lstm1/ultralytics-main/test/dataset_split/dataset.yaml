@@ -1,0 +1,8 @@
+path: D:\lstm1\ultralytics-main\test\dataset_split
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: normal
+  1: drowning
